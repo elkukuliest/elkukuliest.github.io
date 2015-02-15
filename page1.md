@@ -1,13 +1,18 @@
 ---
 layout: page
 permalink: /page1/
+foobarr: dubi
 ---
 
-<img src="{{ site.baseurl }}/img/cover.jpg"/>
+<img src="{{ site.baseurl }}/img/page1.jpg"/>
+
+## Lalala
 
 <p class="nav">
 <a href="/">&lArr;</a>
 <a href="{{ site.baseurl }}/page2">&rArr;</a>
 </p>
 
-## Lalala
+{{ foobarr }}
+
+{% include nav.html %}
