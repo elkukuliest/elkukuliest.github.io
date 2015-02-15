@@ -7,6 +7,6 @@ pagnext: page4
 
 <img src="{{ site.baseurl }}/img/page3.jpg"/>
 
-## 333
+## Assis dans son petit bateau, Petit Ours pêchait des poissons.
 
 {% include nav.html %}

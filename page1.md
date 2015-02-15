@@ -7,8 +7,6 @@ pagnext: page2
 
 <img src="{{ site.baseurl }}/img/page1.jpg"/>
 
-## Lalala
-
-{{ page.pagnext }}
+## Petit Ours adorait son petit bateau.
 
 {% include nav.html %}
