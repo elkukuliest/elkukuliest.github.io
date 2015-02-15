@@ -4,10 +4,10 @@ title: 1
 permalink: /page1/
 ---
 
-<img src="img/cover.jpg"/>
+<img src="{{ site.baseurl }}/img/cover.jpg"/>
 
 <p class="nav">
-<a href="page1.html">&rArr;</a>
-</p>
-    
+<a href="{{ site.baseurl }}page1">&lArr;</a>
+<a href="{{ site.baseurl }}page2">&rArr;</a>
+</p>    
 ## Lalala
