@@ -13,6 +13,6 @@ foobarr: dubi
 <a href="{{ site.baseurl }}/page2">&rArr;</a>
 </p>
 
-{{ foobarr }}
+{{ page.foobarr }}
 
 {% include nav.html %}
