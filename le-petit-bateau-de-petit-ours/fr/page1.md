@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /le-petit-bateau-de-petit-ours/page1/
+permalink: /le-petit-bateau-de-petit-ours/fr/page1/
 pagprev: 
-pagnext: page2
+pagnext: le-petit-bateau-de-petit-ours/fr/page2
 ---
 
 <img src="{{ site.baseurl }}/img/page1.jpg"/>
