@@ -1,7 +1,13 @@
+---
+layout: page
+title: 1
+permalink: /page1/
+---
+
 <img src="img/cover.jpg"/>
 
-    <p class="nav">
-        <a href="page1.html">&rArr;</a>
-    </p>
+<p class="nav">
+<a href="page1.html">&rArr;</a>
+</p>
     
 ## Lalala
