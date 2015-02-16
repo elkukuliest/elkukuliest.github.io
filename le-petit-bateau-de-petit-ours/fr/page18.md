@@ -11,12 +11,12 @@ pagnext: le-petit-bateau-de-petit-ours/fr/page19
 
 <div class="childbook-text">
 Et il rencontra le petit ours.<br />
-"J'ai un petit bateau pour toi, lui dit-i1.<br />
+"J'ai un petit bateau pour toi, lui dit-il.<br />
 Mais il y a une Chose que tu dois savoir. Tu vas grandir, grandir jusqu’à devenir un grand ours.<br />
 C’est le destin de tous les petits ours.<br />
 Le petit bateau, lui, restera un petit bateau.<br />
-C’est 1e destin de tous les petits bateaux.<br />
-Quand cela arrivera, tu devras trouver un autre petit ours qui continuera à faire naviguer 1e petit bateau sur 1e lac. C’est promis ?"<br />
+C’est le destin de tous les petits bateaux.<br />
+Quand cela arrivera, tu devras trouver un autre petit ours qui continuera à faire naviguer le petit bateau sur le lac. C’est promis ?"<br />
 <br />
 "Promis", dit le petit ours.
 </div>
