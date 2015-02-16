@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /le-petit-bateau-de-petit-ours/fr/
+permalink: /le-petit-bateau-de-petit-ours/
 ---
 
 ## Le petit bateau de Petit Ours
@@ -9,7 +9,7 @@ permalink: /le-petit-bateau-de-petit-ours/fr/
 
 Texte d'Eve Bunting illustrations de Nancy Carpenter
 
-&copy; 2004 l'ecole de laisirs, Paris
+&copy; 2004 l'école de loisirs, Paris
 
 * [Le petit bateau de Petit Ours]({{ site.baseurl }}/le-petit-bateau-de-petit-ours/fr/page1)
 * [Little Bear's little boat]({{ site.baseurl }}/le-petit-bateau-de-petit-ours/en/page1)
