@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /page7/
-pagprev: page6
-pagnext: page8
+pagprev: le-petit-bateau-de-petit-ours/fr/page6
+pagnext: le-petit-bateau-de-petit-ours/fr/page8
 ---
 
 <img src="{{ site.baseurl }}/img/page3.jpg"/>
