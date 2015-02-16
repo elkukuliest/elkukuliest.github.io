@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /le-petit-bateau-de-petit-ours/fr/page15/
-pagprev: le-petit-bateau-de-petit-ours/fr/page14
-pagnext: le-petit-bateau-de-petit-ours/fr/page16
+permalink: /le-petit-bateau-de-petit-ours/de/page15/
+pagprev: le-petit-bateau-de-petit-ours/de/page14
+pagnext: le-petit-bateau-de-petit-ours/de/page16
 ---
 
 ## Le petit bateau de Petit Ours
