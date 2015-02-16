@@ -13,4 +13,6 @@ pagnext: le-petit-bateau-de-petit-ours/fr/page22
 Il le Vit aussi couché au fond du petit bateau. Le petit ours rêvait, les yeux fermés, et semblait très heureux.
 </div>
 
+<img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page21-1.jpg"/>
+
 {% include nav.html %}
