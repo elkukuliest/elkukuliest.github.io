@@ -1,5 +1,5 @@
 ---
-title: aaaghga
+title: Le petit bateau de Petit Ours
 layout: page
 permalink: /le-petit-bateau-de-petit-ours/fr/page1/
 pagprev: 
