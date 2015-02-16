@@ -10,10 +10,10 @@ pagnext: le-petit-bateau-de-petit-ours/fr/page11
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page10.jpg"/>
 
 <div class="childbook-text">
-"Où es-tu, mon grand ours ?" appela Maman.
+"Où es-tu, mon grand ours?" appela Maman.
 <br />
 Grand Ours et son petit bateau réapparurent à la surface de l’eau.<br />
-"Gloups !" fit Grand Ours.
+"Gloups!" fit Grand Ours.
 </div>
    
 {% include nav.html %}
