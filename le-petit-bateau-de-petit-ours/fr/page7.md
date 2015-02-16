@@ -10,7 +10,7 @@ pagnext: le-petit-bateau-de-petit-ours/fr/page8
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page7.jpg"/>
 
 <div class="childbook-text">
-de plus en plus grand.
+de plus en plus <big>grand</big>.
 </div>
 
 {% include nav.html %}
