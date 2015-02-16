@@ -1,9 +1,8 @@
 # Site settings
-title: Le petit bateau de Petit Ours
+title: El KuKu liest
 email: elkuku.liest@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Texte d'Eve Bunting
-  illustrations de Nancy Carpenter
+  El KuKu liest gern =;)
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username:  elkukuliest
