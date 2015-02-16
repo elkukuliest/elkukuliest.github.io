@@ -7,7 +7,7 @@ pagnext: le-petit-bateau-de-petit-ours/fr/page18
 
 ## Le petit bateau de Petit Ours
 
-<img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page11.jpg"/>
+<img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page17.jpg"/>
 
 <div class="childbook-text">
 "Il habite avec sa maman de l’autre côté du lac.<br />

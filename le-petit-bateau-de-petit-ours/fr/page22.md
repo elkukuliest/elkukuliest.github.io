@@ -7,7 +7,7 @@ pagnext:
 
 ## Le petit bateau de Petit Ours
 
-<img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page11.jpg"/>
+<img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page22.jpg"/>
 
 <div class="childbook-text">
 Grand Ours aussi était très heureux.

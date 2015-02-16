@@ -7,7 +7,7 @@ pagnext: le-petit-bateau-de-petit-ours/fr/page17
 
 ## Le petit bateau de Petit Ours
 
-<img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page11.jpg"/>
+<img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page16.jpg"/>
 
 <div class="childbook-text">
 Mais le héron bleu, lui, en connaissait un.

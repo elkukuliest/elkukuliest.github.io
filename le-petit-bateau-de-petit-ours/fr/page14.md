@@ -7,7 +7,7 @@ pagnext: le-petit-bateau-de-petit-ours/fr/page15
 
 ## Le petit bateau de Petit Ours
 
-<img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page11.jpg"/>
+<img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page14.jpg"/>
 
 <div class="childbook-text">
 "Tu n'aurais pas vu un petit ours?"<br />
