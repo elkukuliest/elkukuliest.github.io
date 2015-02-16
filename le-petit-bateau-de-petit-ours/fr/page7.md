@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /page7/
+permalink: /le-petit-bateau-de-petit-ours/fr/page7/
 pagprev: le-petit-bateau-de-petit-ours/fr/page6
 pagnext: le-petit-bateau-de-petit-ours/fr/page8
 ---
