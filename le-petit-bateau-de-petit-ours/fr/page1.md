@@ -1,10 +1,11 @@
 ---
-title: Le petit bateau de Petit Ours
 layout: page
 permalink: /le-petit-bateau-de-petit-ours/fr/page1/
 pagprev: 
 pagnext: le-petit-bateau-de-petit-ours/fr/page2
 ---
+
+# Le petit bateau de Petit Ours
 
 <img src="{{ site.baseurl }}/img/page1.jpg"/>
 
