@@ -12,7 +12,8 @@ pagnext: le-petit-bateau-de-petit-ours/fr/page11
 <div class="childbook-text">
 "Où es-tu, mon grand ours ?" appela Maman.
 <br />
-Grand Ours et son petit bateau réapparurent à 1a surface de l’eau. "Gloups !" fit Grand Ours.
+Grand Ours et son petit bateau réapparurent à la surface de l’eau.<br />
+"Gloups !" fit Grand Ours.
 </div>
    
 {% include nav.html %}
