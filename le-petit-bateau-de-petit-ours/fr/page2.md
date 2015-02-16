@@ -5,7 +5,7 @@ pagprev: le-petit-bateau-de-petit-ours/fr/page1
 pagnext: le-petit-bateau-de-petit-ours/fr/page3
 ---
 
-# Le petit bateau de Petit Ours
+## Le petit bateau de Petit Ours
 
 <img src="{{ site.baseurl }}/img/page2.jpg"/>
 
