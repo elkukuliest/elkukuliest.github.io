@@ -5,8 +5,12 @@ pagprev: le-petit-bateau-de-petit-ours/fr/page4
 pagnext: le-petit-bateau-de-petit-ours/fr/page6
 ---
 
-<img src="{{ site.baseurl }}/img/page3.jpg"/>
+## Le petit bateau de Petit Ours
 
-## Quand sa maman l’appelait pour aller dormir, Petit Ours attachait son petit bateau à la berge et lui disait: "Bonne nuit, petit bateau. À demain."
+<img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page5.jpg"/>
+
+<div class="childbook-text">
+Quand sa maman l’appelait pour aller dormir, Petit Ours attachait son petit bateau à la berge et lui disait: "Bonne nuit, petit bateau. À demain."
+</div>
 
 {% include nav.html %}

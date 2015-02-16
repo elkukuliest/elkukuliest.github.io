@@ -5,7 +5,9 @@ pagprev: le-petit-bateau-de-petit-ours/fr/page10
 pagnext: le-petit-bateau-de-petit-ours/fr/page12
 ---
 
-<img src="{{ site.baseurl }}/img/page3.jpg"/>
+## Le petit bateau de Petit Ours
+
+<img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page11.jpg"/>
 
 <div class="childbook-text">
 "Tu es vraiment trop grand pour aller dans ton petit bateau, dit Maman.<br />

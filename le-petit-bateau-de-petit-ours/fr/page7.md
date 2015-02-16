@@ -5,8 +5,12 @@ pagprev: le-petit-bateau-de-petit-ours/fr/page6
 pagnext: le-petit-bateau-de-petit-ours/fr/page8
 ---
 
-<img src="{{ site.baseurl }}/img/page3.jpg"/>
+## Le petit bateau de Petit Ours
 
-## de plus en plus grand.
+<img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page7.jpg"/>
+
+<div class="childbook-text">
+de plus en plus grand.
+</div>
 
 {% include nav.html %}

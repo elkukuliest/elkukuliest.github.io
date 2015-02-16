@@ -5,10 +5,14 @@ pagprev: le-petit-bateau-de-petit-ours/fr/page5
 pagnext: le-petit-bateau-de-petit-ours/fr/page7
 ---
 
-<img src="{{ site.baseurl }}/img/page3.jpg"/>
+## Le petit bateau de Petit Ours
 
-## Mais ce qui devait arriver arriva.
-## Petit Ours se mit à grandir.
-## Il devenait grand,
+<img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page6.jpg"/>
+
+<div class="childbook-text">
+Mais ce qui devait arriver arriva.<br />
+Petit Ours se mit à grandir.<br />
+Il devenait grand,
+</div>
 
 {% include nav.html %}

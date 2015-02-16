@@ -5,12 +5,12 @@ pagprev: le-petit-bateau-de-petit-ours/fr/page8
 pagnext: le-petit-bateau-de-petit-ours/fr/page10
 ---
 
-<img src="{{ site.baseurl }}/img/page3.jpg"/>
+## Le petit bateau de Petit Ours
 
-## Il essaya tout de même de s’y asseoir
+<img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page9.jpg"/>
 
-## une dernière fois, mais 1e petit bateau bascula
-
-## et ils finirent tous les deux au fond du lac.
+<div class="childbook-text">
+Il essaya tout de même de s’y asseoir une dernière fois, mais 1e petit bateau bascula et ils finirent tous les deux au fond du lac.
+</div>
 
 {% include nav.html %}

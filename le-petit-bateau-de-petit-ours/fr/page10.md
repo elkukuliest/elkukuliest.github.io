@@ -5,10 +5,14 @@ pagprev: le-petit-bateau-de-petit-ours/fr/page9
 pagnext: le-petit-bateau-de-petit-ours/fr/page11
 ---
 
-<img src="{{ site.baseurl }}/img/page3.jpg"/>
+## Le petit bateau de Petit Ours
 
-## "Où es-tu, mon grand ours ?" appela Maman.
+<img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page10.jpg"/>
 
-## Grand Ours et son petit bateau réapparurent à 1a surface de l’eau. "Gloups !" fit Grand Ours.
+<div class="childbook-text">
+"Où es-tu, mon grand ours ?" appela Maman.
+<br />
+Grand Ours et son petit bateau réapparurent à 1a surface de l’eau. "Gloups !" fit Grand Ours.
+</div>
    
 {% include nav.html %}

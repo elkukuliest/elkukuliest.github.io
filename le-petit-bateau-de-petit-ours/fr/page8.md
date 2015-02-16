@@ -5,10 +5,14 @@ pagprev: le-petit-bateau-de-petit-ours/fr/page7
 pagnext: le-petit-bateau-de-petit-ours/fr/page9
 ---
 
-<img src="{{ site.baseurl }}/img/page3.jpg"/>
+## Le petit bateau de Petit Ours
 
-## Il n'était plus un petit ours.
+<img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page8.jpg"/>
 
-## Il était un grand ours et il ne rentrait plus dans son petit bateau.
+<div class="childbook-text">
+Il n'était plus un petit ours.
+<br />
+Il était un grand ours et il ne rentrait plus dans son petit bateau.
+</div>
 
 {% include nav.html %}

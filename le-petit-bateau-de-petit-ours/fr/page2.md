@@ -7,8 +7,10 @@ pagnext: le-petit-bateau-de-petit-ours/fr/page3
 
 ## Le petit bateau de Petit Ours
 
-<img src="{{ site.baseurl }}/img/page2.jpg"/>
+<img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page2.jpg"/>
 
-## Chaque jour, il faisait le tour du lac en ramant.
+<div class="childbook-text">
+Chaque jour, il faisait le tour du lac en ramant.
+</div>
 
 {% include nav.html %}
