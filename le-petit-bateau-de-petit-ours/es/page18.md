@@ -14,7 +14,9 @@ Y se encontró con el pequeño oso.
 <br />
 "Tengo un pequeño barco para ti," dijo.
 <br />
-Pero hay una cosa que necesitas saber. Vas a crecer y crecer hasta convertirte en un gran oso.
+Pero hay una cosa que necesitas saber.
+<br />
+Vas a crecer y crecer hasta convertirte en un gran oso.
 <br />
 Este es el destino de todos los osos pequeños.
 <br />
