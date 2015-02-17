@@ -10,7 +10,7 @@ pagnext: le-petit-bateau-de-petit-ours/es/page22
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page21.jpg"/>
 
 <div class="childbook-text">
-El lo vio tumbado en en fondo del pequeño bote. El osito estaba soñando, los ojos cerrados y parecía muy feliz.
+El lo vio tumbado en en fondo del pequeño bote. El pequeño oso estaba soñando, los ojos cerrados y parecía muy feliz.
 </div>
 
 {% include nav.html %}
