@@ -10,7 +10,7 @@ pagnext: le-petit-bateau-de-petit-ours/es/page22
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page21.jpg"/>
 
 <div class="childbook-text">
-Il le Vit aussi couché au fond du petit bateau. Le petit ours rêvait, les yeux fermés, et semblait très heureux.
+El lo vio tumbado en en fondo del pequeño bote. El osito estaba soñando, los ojos cerrados y parecía muy feliz.
 </div>
 
 {% include nav.html %}

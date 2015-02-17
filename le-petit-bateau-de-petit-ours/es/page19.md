@@ -10,7 +10,9 @@ pagnext: le-petit-bateau-de-petit-ours/es/page20
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page19.jpg"/>
 
 <div class="childbook-text">
-Pendant tout l’été, Grand Ours observa le petit ours qui faisait le tour du lac en ramant.
+**********Pendant tout l’été, Grand Ours observa le petit ours qui faisait le tour du lac en ramant.*********<br />
+
+Durante todo el verano, el Gran Oso observó al pequeño oso andando en el lago a remo.
 </div>
 
 {% include nav.html %}

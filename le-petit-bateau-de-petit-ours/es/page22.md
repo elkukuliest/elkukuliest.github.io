@@ -10,7 +10,7 @@ pagnext:
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page22.jpg"/>
 
 <div class="childbook-text">
-Grand Ours aussi était très heureux.
+El Gran Oso también estaba muy feliz.
 </div>
 
 {% include nav.html %}

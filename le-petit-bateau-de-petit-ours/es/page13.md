@@ -10,7 +10,7 @@ pagnext: le-petit-bateau-de-petit-ours/es/page14
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page13.jpg"/>
 
 <div class="childbook-text">
-Et Grand Ours décida de faire le tour du lac.
+Y el Gran Oso decidió dar la vuelta al lago.
 </div>
 
 {% include nav.html %}

@@ -10,7 +10,7 @@ pagnext: le-petit-bateau-de-petit-ours/es/page21
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page20.jpg"/>
 
 <div class="childbook-text">
-Il le Vit pêcher, assis dans le petit bateau.
+Él lo vio pescar, sentado en la pequeña embarcación.
 </div>
 
 {% include nav.html %}

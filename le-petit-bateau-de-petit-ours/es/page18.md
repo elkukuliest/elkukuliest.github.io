@@ -10,15 +10,22 @@ pagnext: le-petit-bateau-de-petit-ours/es/page19
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page18.jpg"/>
 
 <div class="childbook-text">
-Et il rencontra le petit ours.<br />
-"J'ai un petit bateau pour toi, lui dit-il.<br />
-Mais il y a une Chose que tu dois savoir. Tu vas grandir, grandir jusqu’à devenir un grand ours.<br />
-C’est le destin de tous les petits ours.<br />
-Le petit bateau, lui, restera un petit bateau.<br />
-C’est le destin de tous les petits bateaux.<br />
-Quand cela arrivera, tu devras trouver un autre petit ours qui continuera à faire naviguer le petit bateau sur le lac. C’est promis ?"<br />
+Y se encontró con el pequeño oso.
 <br />
-"Promis", dit le petit ours.
+"Tengo un pequeño barco para ti," dijo.
+<br />
+Pero hay una cosa que necesitas saber. Vas a crecer y crecer hasta convertirte en un gran oso.
+<br />
+Este es el destino de todos los osos pequeños.
+<br />
+El pequeño bote seguirá siendo un pequeño bote.
+<br />
+Este es el destino de todos los botes pequeños.
+<br />
+Cuando esto suceda, tendrás que encontrar otro pequeño oso que seguirá navegar el pequeño bote en el lago. Lo prometes?"
+<br />
+<br />
+"Lo prometo", dijo el pequeño oso.
 </div>
 
 {% include nav.html %}

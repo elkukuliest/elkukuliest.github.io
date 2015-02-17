@@ -10,9 +10,9 @@ pagnext: le-petit-bateau-de-petit-ours/es/page13
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page12.jpg"/>
 
 <div class="childbook-text">
-Grand Ours était triste.<br />
-"Je ne peux pas laisser mon petit bateau sans un petit ours pour le faire naviguer, se dit-il. C’est le destin d’un petit bateau de voguer sur le lac."<br />
-Grand Ours se gratta la tête. "J’ai une idée! Je vais trouver un autre petit ours qui aimera mon petit bateau autant que je l'aime."
+El Gran Oso estaba triste.<br />
+"No puedo dejar a mi pequeño bote sin un pequeño oso para hizar la vela, dijo. El destino de un pequeño bote es navegar en el lago."<br />
+El Gran Oso se rascó la cabeza. "Tengo una idea! Encontraré otro pequeño oso que amará mi pequeño bote tanto como yo lo amo."
 </div>
 
 {% include nav.html %}

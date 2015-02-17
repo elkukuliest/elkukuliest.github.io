@@ -10,9 +10,9 @@ pagnext: le-petit-bateau-de-petit-ours/es/page18
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page17.jpg"/>
 
 <div class="childbook-text">
-"Il habite avec sa maman de l’autre côté du lac.<br />
-Je l’ai vu ce matin. Il mangeait des myrtilles", dit-il.<br />
-Alors, Grand Ours refit le tour du lac.
+"Él vive con su madre en el otro lado del lago.<br />
+Lo vi esta mañana. Estaba comiendo arándanos", dijo.<br />
+Así el Gran Oso dio la vuelta alrededor del lago.
 </div>
 
 {% include nav.html %}

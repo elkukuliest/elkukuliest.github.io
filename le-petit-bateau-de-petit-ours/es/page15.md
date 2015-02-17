@@ -10,7 +10,7 @@ pagnext: le-petit-bateau-de-petit-ours/es/page16
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page15.jpg"/>
 
 <div class="childbook-text">
-La loutre non plus n’avait pas vu de petit ours.
+La nutria mas bien había visto poco oso.
 </div>
 
 {% include nav.html %}

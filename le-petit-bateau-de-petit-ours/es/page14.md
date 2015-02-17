@@ -10,8 +10,9 @@ pagnext: le-petit-bateau-de-petit-ours/es/page15
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page14.jpg"/>
 
 <div class="childbook-text">
-"Tu n'aurais pas vu un petit ours?"<br />
-demanda-t-il au castor. "Non! Pas depuis l’époque où toi tu étais un petit ours", répondit le castor.
+"Usted no ha visto un pequeño oso?" preguntó el castor. 
+<br />
+"¡No! No desde los días cuando eras un pequeño oso", dijo el castor.
 </div>
 
 {% include nav.html %}
