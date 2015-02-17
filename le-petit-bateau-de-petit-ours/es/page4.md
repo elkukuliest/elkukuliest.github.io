@@ -10,9 +10,8 @@ pagnext: le-petit-bateau-de-petit-ours/es/page5
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page4.jpg"/>
 
 <div class="childbook-text">
-Couché au fond de son petit bateau, Petit Ours fermait les yeux et rêvait.
-<br />
-Il était très heureux.
+Metido profundamente en su pequeño bote, el Pequeño Oso cerró los ojos y soñó.<br />
+El estaba muy contento.
 </div>
 
 {% include nav.html %}

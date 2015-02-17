@@ -10,7 +10,8 @@ pagnext: le-petit-bateau-de-petit-ours/es/page6
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page5.jpg"/>
 
 <div class="childbook-text">
-Quand sa maman l’appelait pour aller dormir, Petit Ours attachait son petit bateau à la berge et lui disait: "Bonne nuit, petit bateau. À demain."
+Cuando su madre lo llamó para ir a dormir, el Pequeño Oso ató su pequeño bote al banco y dijó:<br />
+"Buenas noches, pequeño bote. Hasta mañana"
 </div>
 
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page5-1.jpg"/>

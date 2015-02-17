@@ -10,7 +10,8 @@ pagnext: le-petit-bateau-de-petit-ours/es/page3
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page2.jpg"/>
 
 <div class="childbook-text">
-Chaque jour, il faisait le tour du lac en ramant.
+Chaque jour, il faisait le tour du lac en ramant.<br />
+Todos los días hizo un viaje por el lago a remo.
 </div>
 
 {% include nav.html %}

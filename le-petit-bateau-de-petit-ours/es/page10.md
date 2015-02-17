@@ -10,10 +10,11 @@ pagnext: le-petit-bateau-de-petit-ours/es/page11
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page10.jpg"/>
 
 <div class="childbook-text">
-"Où es-tu, mon grand ours?" appela Maman.
+"¿Dónde estás, mi gran oso?" Mamá llamó.
 <br />
-Grand Ours et son petit bateau réapparurent à la surface de l’eau.<br />
-"Gloups!" fit Grand Ours.
+Grand Ours et son petit bateau réapparurent à la surface de l’eau.
+El Gran Oso y su pequeño barco reaparecieron en la superficie del agua.<br />
+"Gloups!" dijo el Gran Oso.
 </div>
    
 {% include nav.html %}

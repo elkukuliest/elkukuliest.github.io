@@ -10,9 +10,9 @@ pagnext: le-petit-bateau-de-petit-ours/es/page9
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page8.jpg"/>
 
 <div class="childbook-text">
-Il n'était <big>plus</big> un petit ours.
+Él <big>ya</big> no era un pequeño oso.
 <br />
-Il était un <big>grand ours</big> et il ne rentrait plus dans son petit bateau.
+Él era un <big>gran</big> oso y él ya no entraba en su pequeño bote.
 </div>
 
 {% include nav.html %}

@@ -10,7 +10,7 @@ pagnext: le-petit-bateau-de-petit-ours/es/page10
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page9.jpg"/>
 
 <div class="childbook-text">
-Il essaya tout de même de s’y asseoir une dernière fois, mais le petit bateau bascula et ils finirent tous les deux au fond du lac.
+Todavía intenta sentarse por última vez, pero la pequeño bote se balanceó y terminaron ambas en el lago.
 </div>
 
 {% include nav.html %}

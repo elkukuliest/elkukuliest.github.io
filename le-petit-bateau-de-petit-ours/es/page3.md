@@ -10,7 +10,7 @@ pagnext: le-petit-bateau-de-petit-ours/es/page4
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page3.jpg"/>
 
 <div class="childbook-text">
-Assis dans son petit bateau, Petit Ours pêchait des poissons.
+Sentado en su pequeño bote, el Pequeño Oso cogió los pescados.
 </div>
 
 {% include nav.html %}

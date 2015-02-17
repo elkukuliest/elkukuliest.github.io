@@ -10,9 +10,9 @@ pagnext: le-petit-bateau-de-petit-ours/es/page7
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page6.jpg"/>
 
 <div class="childbook-text">
-Mais ce qui devait arriver arriva.<br />
-Petit Ours se mit à grandir.<br />
-Il devenait grand,
+Pero sucedió lo inevitable.<br />
+El Pequeño Oso comenzó a crecer.<br />
+Se convirtió en grande,
 </div>
 
 {% include nav.html %}
