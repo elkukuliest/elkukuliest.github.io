@@ -10,7 +10,7 @@ pagnext: le-petit-bateau-de-petit-ours/es/page10
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page9.jpg"/>
 
 <div class="childbook-text">
-Todavía intenta sentarse por última vez, pero la pequeño bote se balanceó y terminaron ambas en el lago.
+Todavía intentaba sentarse por última vez, pero el pequeño bote se balanceó y terminaron ambos en el lago.
 </div>
 
 {% include nav.html %}

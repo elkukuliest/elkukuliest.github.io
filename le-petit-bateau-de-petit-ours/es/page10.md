@@ -12,7 +12,6 @@ pagnext: le-petit-bateau-de-petit-ours/es/page11
 <div class="childbook-text">
 "¿Dónde estás, mi gran oso?" Mamá llamó.
 <br />
-Grand Ours et son petit bateau réapparurent à la surface de l’eau.
 El Gran Oso y su pequeño barco reaparecieron en la superficie del agua.<br />
 "Gloups!" dijo el Gran Oso.
 </div>
