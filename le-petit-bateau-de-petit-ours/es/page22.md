@@ -2,7 +2,7 @@
 layout: page
 permalink: /le-petit-bateau-de-petit-ours/es/page22/
 pagprev: le-petit-bateau-de-petit-ours/es/page21
-pagnext:
+pagnext: le-petit-bateau-de-petit-ours/es/end
 ---
 
 ## El pequeño bote del Pequeño Oso
