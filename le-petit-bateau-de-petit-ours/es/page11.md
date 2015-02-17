@@ -5,7 +5,7 @@ pagprev: le-petit-bateau-de-petit-ours/es/page10
 pagnext: le-petit-bateau-de-petit-ours/es/page12
 ---
 
-## Le petit bateau de Petit Ours
+## El pequeño bote del Pequeño Oso
 
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page11.jpg"/>
 
