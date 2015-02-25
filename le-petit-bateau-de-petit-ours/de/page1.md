@@ -5,12 +5,12 @@ pagprev:
 pagnext: le-petit-bateau-de-petit-ours/de/page2
 ---
 
-## Le petit bateau de Petit Ours
+## Der kleiner Boot von der kleiner Bar
 
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page1.jpg"/>
 
 <div class="childbook-text">
-Petit Ours adorait son petit bateau.
+Der kleiner Bar liebt sein kleiner Boot
 </div>
 
 {% include nav.html %}
